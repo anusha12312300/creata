@@ -1,0 +1,4 @@
+break
+gares
+stearing
+seats
